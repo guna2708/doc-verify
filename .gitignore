@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+backend/ledger.db
+backend/__pycache__/
+backend/results/
+backend/*.png
+backend/*.jpeg
+
+# Node/Next
+node_modules/
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+.DS_Store
+
+# Other
+node/
+node.zip
+node_installer.msi
+tessdata_tmp/
+*.bat
+*.pdf
+temp_css.css
+upload.html
+blue_theme.py
+clean_bg.py
+fix_escape.py
+replace_css.py
+check_db.py
+test_verify.py
